@@ -13,6 +13,7 @@
 |Aplicaciones|Visto|
 |---------------|:------------:|
 |Google Docs|![tick](https://github.com/Jmaikelhh28/SMX2_M8_UF1_A2_HidalgoJeanMichael/blob/main/Captura.PNG)|
-
-
-
+|Google Slides|![tick](https://github.com/Jmaikelhh28/SMX2_M8_UF1_A2_HidalgoJeanMichael/blob/main/Captura.PNG)|
+|Google Sheets|![tick](https://github.com/Jmaikelhh28/SMX2_M8_UF1_A2_HidalgoJeanMichael/blob/main/Captura.PNG))|
+|Google Calendar|![tick](https://github.com/Jmaikelhh28/SMX2_M8_UF1_A2_HidalgoJeanMichael/blob/main/Captura2.PNG)|
+|Google Meet|![tick](https://github.com/Jmaikelhh28/SMX2_M8_UF1_A2_HidalgoJeanMichael/blob/main/Captura3.PNG)|
