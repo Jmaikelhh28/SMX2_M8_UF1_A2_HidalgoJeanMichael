@@ -1,10 +1,10 @@
 ## Evaluación inicial 
 
-1. ¿Qué es una página web?
+**1. ¿Qué es una página web?**
 
 Espacio digital en línea al que se puede acceder a través de internet y que muestra contenido multimedia o interactivo en un navegador web.
 
-2. ¿Qué es un sitio web?
+**2. ¿Qué es un sitio web?**
 
 Conjunto de páginas web que están conectadas entre sí y se encuentran alojadas en un servidor web.
 
@@ -41,4 +41,4 @@ Conjunto de páginas web que están conectadas entre sí y se encuentran alojada
 7. ¿Qué es CSS?
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
-![tick](https://github.com/Jmaikelhh28/SMX2_M8_UF1_A2_HidalgoJeanMichael/blob/main/Captura5.PNG){width="50px" height="50px"}
+![tick](https://github.com/Jmaikelhh28/SMX2_M8_UF1_A2_HidalgoJeanMichael/blob/main/Captura5.PNG)
