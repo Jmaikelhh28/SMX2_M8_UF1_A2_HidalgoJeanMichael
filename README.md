@@ -1,9 +1,13 @@
 ## Evaluación inicial 
 
 1. ¿Qué es una página web?
+
 Espacio digital en línea al que se puede acceder a través de internet y que muestra contenido multimedia o interactivo en un navegador web.
+
 2. ¿Qué es un sitio web?
+
 Conjunto de páginas web que están conectadas entre sí y se encuentran alojadas en un servidor web.
+
 3. ¿Qué es una aplicación web?
 
 4. ¿Qué es una herramienta ofimática?
