@@ -10,7 +10,11 @@ Conjunto de páginas web que están conectadas entre sí y se encuentran alojada
 
 **3. ¿Qué es una aplicación web?**
 
+Una aplicación web es un software que se ejecuta en el navegador web.
+
 **4. ¿Qué es una herramienta ofimática?**
+
+son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en una oficina
 
 **5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/)**
 
@@ -24,6 +28,24 @@ Conjunto de páginas web que están conectadas entre sí y se encuentran alojada
 |...|...|
 
 **6. ¿Qué es HTML ?**
+
+es el código que se utiliza para estructurar y desplegar una página web y sus contenidos. 
+
+```
+<!DOCTYPE html>
+<html lang=''en''>
+<head>
+    <meta charset=''UTF-8''>
+    <meta http-equiv=''X-UA-Compatible'' content=IE=edge''>
+    <meta name=''viewport'' content=''width=device-width, initial-scale=1.0''>
+    <title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
+```
+
 
 **7. ¿Qué es CSS?**
 
