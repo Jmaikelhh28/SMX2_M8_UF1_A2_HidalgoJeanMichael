@@ -8,11 +8,11 @@ Espacio digital en línea al que se puede acceder a través de internet y que mu
 
 Conjunto de páginas web que están conectadas entre sí y se encuentran alojadas en un servidor web.
 
-3. ¿Qué es una aplicación web?
+**3. ¿Qué es una aplicación web?**
 
-4. ¿Qué es una herramienta ofimática?
+**4. ¿Qué es una herramienta ofimática?**
 
-5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/)
+**5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/)**
 
 |Aplicaciones|Visto|
 |---------------|:------------:|
@@ -22,23 +22,9 @@ Conjunto de páginas web que están conectadas entre sí y se encuentran alojada
 |Google Calendar|![tick](https://github.com/Jmaikelhh28/SMX2_M8_UF1_A2_HidalgoJeanMichael/blob/main/Captura2.PNG)|
 |Google Meet|![tick](https://github.com/Jmaikelhh28/SMX2_M8_UF1_A2_HidalgoJeanMichael/blob/main/Captura3.PNG)|
 
-###6. ¿Qué es HTML ?
+**6. ¿Qué es HTML ?**
 
-'''<!D0CTYPE html>
-<html lang=''en''>
-<head>
-    <meta charset=''UTF-8''>
-    <meta http-equiv=''X-UA-Compatible' content=''IE=edge''>
-    <meta name=''viewport'' content=''width=devicee-width, initial-scale=1.0''>
-    <title>Document</title>
-</head>
-<body>
+**7. ¿Qué es CSS?**
 
-</body>
-</html>
-'''
-
-7. ¿Qué es CSS?
-
-8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+**8. Flujo de trabajo (navegador, petición, servidor y respuesta):**
 ![tick](https://github.com/Jmaikelhh28/SMX2_M8_UF1_A2_HidalgoJeanMichael/blob/main/Captura5.PNG)
