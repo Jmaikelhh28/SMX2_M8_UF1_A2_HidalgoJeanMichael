@@ -22,9 +22,9 @@ Conjunto de páginas web que están conectadas entre sí y se encuentran alojada
 |Google Calendar|![tick](https://github.com/Jmaikelhh28/SMX2_M8_UF1_A2_HidalgoJeanMichael/blob/main/Captura2.PNG)|
 |Google Meet|![tick](https://github.com/Jmaikelhh28/SMX2_M8_UF1_A2_HidalgoJeanMichael/blob/main/Captura3.PNG)|
 
-6. ¿Qué es HTML ?
+###6. ¿Qué es HTML ?
 
-<!D0CTYPE html>
+'''<!D0CTYPE html>
 <html lang=''en''>
 <head>
     <meta charset=''UTF-8''>
@@ -36,6 +36,7 @@ Conjunto de páginas web que están conectadas entre sí y se encuentran alojada
 
 </body>
 </html>
+'''
 
 7. ¿Qué es CSS?
 
