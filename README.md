@@ -24,7 +24,18 @@ Conjunto de páginas web que están conectadas entre sí y se encuentran alojada
 
 6. ¿Qué es HTML ?
 
-![tick](https://github.com/Jmaikelhh28/SMX2_M8_UF1_A2_HidalgoJeanMichael/blob/main/Captura4.PNG)
+<!D0CTYPE html>
+<html lang=''en''>
+<head>
+    <meta charset=''UTF-8''>
+    <meta http-equiv=''X-UA-Compatible' content=''IE=edge''>
+    <meta name=''viewport'' content=''width=devicee-width, initial-scale=1.0''>
+    <title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
 
 7. ¿Qué es CSS?
 
