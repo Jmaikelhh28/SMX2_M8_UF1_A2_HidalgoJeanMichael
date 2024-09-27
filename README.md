@@ -41,4 +41,4 @@ Conjunto de páginas web que están conectadas entre sí y se encuentran alojada
 7. ¿Qué es CSS?
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
-![tick](https://github.com/Jmaikelhh28/SMX2_M8_UF1_A2_HidalgoJeanMichael/blob/main/Captura5.PNG){width="200px" height="100px"}
+![tick](https://github.com/Jmaikelhh28/SMX2_M8_UF1_A2_HidalgoJeanMichael/blob/main/Captura5.PNG){width="50px" height="50px"}
