@@ -14,7 +14,7 @@ Una aplicación web es un software que se ejecuta en el navegador web.
 
 **4. ¿Qué es una herramienta ofimática?**
 
-son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en una oficina
+Son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en una oficina
 
 **5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/)**
 
@@ -29,7 +29,7 @@ son aquellos programas o aplicaciones que nos permiten manipular informáticamen
 
 **6. ¿Qué es HTML ?**
 
-es el código que se utiliza para estructurar y desplegar una página web y sus contenidos. 
+Es el código que se utiliza para estructurar y desplegar una página web y sus contenidos. 
 
 ```
 <!DOCTYPE html>
