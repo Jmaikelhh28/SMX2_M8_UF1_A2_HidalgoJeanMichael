@@ -49,7 +49,7 @@ es el código que se utiliza para estructurar y desplegar una página web y sus 
 
 **7. ¿Qué es CSS?**
 
- funciona como complemento a la información que forma parte de un sitio web. Mientras que el código en HTML incluye todos los datos, el código en CSS se encarga de darles formato y presentarlos visualmente a través de un navegador.
+Funciona como complemento a la información que forma parte de un sitio web. Mientras que el código en HTML incluye todos los datos, el código en CSS se encarga de darles formato y presentarlos visualmente a través de un navegador.
 
 **8. Flujo de trabajo (navegador, petición, servidor y respuesta):**
 ![tick](https://github.com/Jmaikelhh28/SMX2_M8_UF1_A2_HidalgoJeanMichael/blob/main/Captura9.PNG)
